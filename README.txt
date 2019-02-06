@@ -28,4 +28,4 @@ complete this coding challenge using React, but feel free
 to use any frameworks or tools that you are comfortable with.
 
 If you have any questions or concerns, please do not hesitate
-to reach out to kyle.landell@mssm.edu or humale.khan@mssm.edu.
+to reach out to kyle.landell@mssm.edu.
